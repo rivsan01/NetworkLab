@@ -32,8 +32,8 @@ El escenario de pruebas está simulado en un entorno controlado compuesto por:
 
 En los distintos write-ups se demuestra como se han interceptado los paquetes a través de distintos protocolos y servicios en distintas situaciones ya sean por HTTP, HTTPS, DNS y SSH. Además, se analizan los distintos paquetes y datos relevantes interceptados en cada uno de ellos.
 
-*(Puedes consultar todas las evidencias gráficas dentro del directorio [`images/`](./images) y las explicaciones teóricas en la carpeta [`write-ups/`](./write-ups)).*
-
 Finalmente, se ha procedido a crear dos scripts en Bash que automaticen ciertas tareas repetivas y que son criticas realizar entre Cliente-Servidor asi como distintos logs que son importante tener en cuenta.
+
+*(Puedes consultar todas las evidencias gráficas dentro del directorio [`images/`](./images) y las explicaciones teóricas en la carpeta [`write-ups/`](./write-ups)).*
 ---
 > **⚠️ Aviso Legal:** Este repositorio y sus demostraciones han sido creados en un entorno de laboratorio estrictamente controlado. Su propósito es 100% educativo y orientado al aprendizaje sobre ciberseguridad y redes.
